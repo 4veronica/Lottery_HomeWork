@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Main {
 
-    private int MIN_NUMBER = 1;
+    private int MIN_NUMBER = 2;
     private int MAX_NUMBER = 45;
     private ArrayList<Integer> lotteryNumber = new ArrayList<Integer>();
     private Random randomNumber = new Random();
